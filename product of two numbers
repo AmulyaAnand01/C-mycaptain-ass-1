@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+ int main()
+ { 
+   double x,y,prod;
+   cout<<"Enter two numbers";
+   cin>>x>>y;
+   prod=x*y;
+   cout<<"product is"<<prod;
+   return 0;
+ }
